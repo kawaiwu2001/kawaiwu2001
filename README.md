@@ -40,7 +40,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
       <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
    <code><img width="10%" src="https://miro.medium.com/v2/resize:fit:950/format:webp/1*yludgK8sb_ZzGAffyKk3AQ.png"></code>
- 
           <code><img width="10%" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
           <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/junit/junit-original-wordmark.svg "></code>
     
