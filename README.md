@@ -48,9 +48,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
       <code><img width="5%" src="https://img.icons8.com/?size=512&id=vinpBD5oA3b4&format=png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
     <code><img width="5%" src="https://img.icons8.com/?size=512&id=61466&format=png"></code>
-      <code><img width="10%" src="https://img.icons8.com/?size=512&id=04OFrkjznvcd&format=png"></code>
+      <code><img width="5%" src="https://img.icons8.com/?size=512&id=04OFrkjznvcd&format=png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-<code><img width="10%" src="https://img.icons8.com/?size=512&id=4VVL78edhbW9&format=png"></code>
+<code><img width="5%" src="https://img.icons8.com/?size=512&id=4VVL78edhbW9&format=png"></code>
 
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaiwu2001)](https://github.com/anuraghazra/github-readme-stats)
