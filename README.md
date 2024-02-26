@@ -49,7 +49,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
       <code><img width="5%" src="https://img.icons8.com/?size=512&id=vinpBD5oA3b4&format=png"></code>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-    <code><img width="5%"  src="https://img.icons8.com/?size=48&id=w1Gq29w4RQWL&format=png"></code>
+    <code><img width="5%"  src="https://img.icons8.com/?size=512&id=61466&format=png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 
 
