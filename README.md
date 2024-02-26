@@ -29,7 +29,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://img.icons8.com/?size=512&id=40670&format=png"></code>
+  <code><img width="5%" src="https://img.icons8.com/?size=512&id=40670&format=png"></code>
   <br />
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
