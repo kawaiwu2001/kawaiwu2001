@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Visitor Count](https://profile-counter.glitch.me/kawaiwu2001/count.svg)
 
 
 ### Languages and Tools:
