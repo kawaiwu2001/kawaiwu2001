@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/kawaiwu2001/count.svg)
-
 
 ### Languages and Tools:
 
@@ -53,9 +51,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
       <code><img width="5%" src="https://img.icons8.com/?size=512&id=04OFrkjznvcd&format=png"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
 <code><img width="5%" src="https://img.icons8.com/?size=512&id=4VVL78edhbW9&format=png"></code>
-
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawaiwu2001)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </p>
